@@ -1,5 +1,5 @@
 
-# 🧠 Sistematização - Insurance Cost Prevision
+# 🧠 Sistematização - Insurance Cost Prediction
 
 Esse projeto em machine learning visa prever valores de custo de seguro médico com base no IMC, gênero, região, status de tabagismo, número de crianças e idade.
 
